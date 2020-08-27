@@ -1,4 +1,4 @@
-def introduction
+def introduction(name)
 end
 
 def introduduction_with_languaje (name, languaje)
